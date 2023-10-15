@@ -22,11 +22,11 @@ jar {
                 'Implementation-Version': '1.3.5'
     }
 }
+
 java {
     sourceCompatibility = JavaVersion.VERSION_17
     targetCompatibility = JavaVersion.VERSION_17
 }
-
 
 test {
     useJUnitPlatform()
