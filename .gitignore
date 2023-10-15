@@ -5,12 +5,10 @@ build/
 !**/src/test/**/build/
 
 ### IntelliJ IDEA ###
-/build/classes
-/build/generated
-/build/reports
-/build/test-results
-/build/tmp
 /.idea
+*.js
+*.html
+*.css
 *.iws
 *.iml
 *.ipr
