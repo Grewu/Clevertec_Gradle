@@ -14,10 +14,15 @@
 core/build/classes
 core/build/generated
 core/build/tmp
+core/build/reports
+core/build/test-results
 
 api/build/classes
 api/build/generated
 api/build/tmp
+api/build/reports
+api/build/test-results
+
 
 /.idea
 *.iws
