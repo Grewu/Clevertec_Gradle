@@ -11,6 +11,14 @@
 /build/test-results
 /build/tmp
 
+core/build/classes
+core/build/generated
+core/build/tmp
+
+api/build/classes
+api/build/generated
+api/build/tmp
+
 /.idea
 *.iws
 *.iml
