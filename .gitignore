@@ -11,10 +11,6 @@ build/
 /build/test-results
 /build/tmp
 /.idea
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
 *.iws
 *.iml
 *.ipr
